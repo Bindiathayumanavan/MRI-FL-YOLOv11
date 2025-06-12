@@ -1,4 +1,4 @@
-# 🧠 MRI-FL-YOLOv11
+# 🧠 MRI-FL-YOLOv5
 
 A hybrid system for brain tumor detection using a combination of **image classification**, **object detection (YOLOv11)**, and **federated learning**. This project simulates a real-world privacy-preserving medical imaging pipeline with an end-to-end solution — from data preprocessing to model training and evaluation.
 
